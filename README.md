@@ -15,11 +15,13 @@ This is an opinonated list of the best cafes in Melbourne.
 | --- | :-- | --- | --- | 
 | ![Inside of empty Proud Mary cafe with barista making coffee](/images/proud-mary.jpg) | [Proud Mary](https://www.proudmarycoffee.com.au) | [172 Oxford St, Collingwood VIC 3066](https://goo.gl/maps/ifrVpNjwYYUUR9aq8) | One of the best cafes in the city that combines perfect coffee with spectacular dishes that are not the average cafe fare.
 
+
 ## 🅱 Class
 
 | | Name | Location | Notes |
 | --- | :-- | --- | --- |
 | ![Front of Stillman Cafe](https://lh3.googleusercontent.com/p/AF1QipNfs8MSS4Z159_fDk0G5dqodTeU7Y5ULHOLCU7a=w1080-h608-p-no-v0) | Stillman Cafe | [237 Burnley St, Richmond VIC 3121](https://g.page/stillman-cafe) | A wonderful little spot with an intimate outdoor area. Great sandwiches keep this cafe in the `B` category. 
+| ![Traveller from the outside](/images/traveller-coffee.jpeg) | [Traveller Coffee](https://sevenseeds.com.au/pages/traveller_coffee) | [2/14 Crossley St, Melbourne VIC 3000](https://g.co/kgs/3RdLVb8) | A staple for coffee in the CBD - always quick and generally good, but some variable when drinking non-diary milks drop it from an 🅰 Class to 🅱.
 
 ## 🅲 Class
 
